@@ -1,13 +1,13 @@
-* {
+body {
   box-sizing: border-box;
 }
 
 h1 {
 	text-align: center;
-	color: #DDE4E7;
+	color: #dde4e7;
   font-family: sans-serif;
   font-size: 3em;
-  background-color: #06457B;
+  background-color: #06457b;
   padding: 5px;
   margin: 15px;
   }
@@ -17,25 +17,26 @@ body {
 }
 h2 {
   font-size: 2em;
+  padding: 7px;
   text-align: center;
-}
-
-.record {
-  background-color: #B9E3EA;
-  margin: 20px;
-  outline-color: #06457B;
-  outline-style: solid;
-  outline-width: 5px;
-}
-
-.description_box {
-  display: flex;
 }
 
 img {
   height: 200px;
   width: 200px;
   margin: 15px;
+}
+
+.record {
+  background-color: #b9e3ea;
+  margin: 20px;
+  outline-color: #06457b;
+  outline-style: solid;
+  outline-width: 5px;
+}
+
+.description_box {
+  display: flex;
 }
 
 .italics {
